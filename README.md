@@ -6,8 +6,9 @@ Repo created from the [Implement Anypoint API Catalog CLI in GitHub Actions]() (
 
 **Developer tutorials:**
 
-- [Part 1]() (link tba)
-- [Part 2]() (link tba)
+- [Part 1: How to catalog APIs with Anypoint API Catalog CLI](https://developer.mulesoft.com/tutorials-and-howtos/how-to-catalog-apis-with-anypoint-api-catalog-cli/)
+
+- [Part 2: How to implement Anypoint API Catalog CLI in GitHub Actions](https://developer.mulesoft.com/tutorials-and-howtos/how-to-implement-anypoint-api-catalog-cli-github-actions/)
 
 **Twitch live stream**
 
