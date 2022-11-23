@@ -1,6 +1,6 @@
 # API Catalog CLI Example
 
-Repo created from the [Implement Anypoint API Catalog CLI in GitHub Actions]() (link tba) developer tutorial.
+Repo created from the developer tutorials listed below.
 
 ## Resources
 
